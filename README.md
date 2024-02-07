@@ -1,5 +1,7 @@
 # LlamaIndex-Precision-and-Simplicity-in-Information-Retrieval
 
+[See Notebook](https://github.com/brianMutea/LlamaIndex-Precision-and-Simplicity-in-Information-Retrieval/blob/main/LlamaIndex_Introduction_Precision_and_Simplicity_in_Information_Retrieval.ipynb)
+
 #### Create a Storage Context to upload the specified topics(data) from Wikipedia to DeepLake
 ```Python
 from llama_index.storage.storage_context import StorageContext
@@ -11,7 +13,7 @@ index = VectorStoreIndex.from_documents(
 )
 ```
 
-![]()
+![uploading data to deeplake](https://github.com/brianMutea/LlamaIndex-Precision-and-Simplicity-in-Information-Retrieval/blob/main/Screenshot%20from%202024-02-07%2010-47-52.png)
 
 #### Query
 
