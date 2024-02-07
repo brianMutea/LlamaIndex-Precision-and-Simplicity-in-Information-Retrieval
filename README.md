@@ -1,4 +1,4 @@
-# LlamaIndex-Precision-and-Simplicity-in-Information-Retrieval
+# LlamaIndex Precision and Simplicity in Information Retrieval
 
 [See Notebook](https://github.com/brianMutea/LlamaIndex-Precision-and-Simplicity-in-Information-Retrieval/blob/main/LlamaIndex_Introduction_Precision_and_Simplicity_in_Information_Retrieval.ipynb)
 
